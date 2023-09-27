@@ -1,2 +1,2 @@
 ### Hello, world!
-Let's use git!
+Let's try git!
